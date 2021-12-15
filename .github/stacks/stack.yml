@@ -2,7 +2,6 @@ name: sample-stack-template
 description: sample stack.
 branding:
   icon: bell 
-  color: blue
 
 init:
  uses: ${{ inputs.random_input }}
